@@ -15,7 +15,7 @@ public class Main {
         System.out.println("I have a dog named" + pet); // this is the code to print my pets name
 
 
-        System.out.println("irMy principal name is " + principal); // this is the code to print my principal
+        System.out.println("My principal name is " + principal); // this is the code to print my principal
         System.out.println("My school is " + school); // this is the code to print my school name
         System.out.println("We have " + number + " students is our school"); // this is the code to print the number of students we have in our school
 
